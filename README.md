@@ -204,7 +204,7 @@ This project showcases practical experience in:
 # 📸 Dashboard Screenshots
 
 ## Overview Dashboard
-https://github.com/Venkataramana101/Airbnb-Market-Insights-Dashboard/blob/main/SnapShot%20of%20the%20DashBoard-2.png
+SnapShot of Overview Dashboard(https://github.com/Venkataramana101/Airbnb-Market-Insights-Dashboard/blob/main/SnapShot%20of%20the%20Dashboard-1.png)
 
 ---
 
