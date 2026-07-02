@@ -209,8 +209,9 @@ SnapShot of Overview Dashboard(https://github.com/Venkataramana101/Airbnb-Market
 ---
 
 ## Ratings Dashboard
+First Snapshot(https://github.com/Venkataramana101/Airbnb-Market-Insights-Dashboard/blob/main/SnapShot%20of%20the%20DashBoard-2.png)
 
-> *(Insert Ratings Dashboard Screenshot Here)*
+Second Snapshot(https://github.com/Venkataramana101/Airbnb-Market-Insights-Dashboard/blob/main/SnapShot%20of%20the%20Dashboard-3.png)
 
 ---
 
